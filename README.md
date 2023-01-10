@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinloren
-- 👀 I’m interested in Electronic Strumentation
-- 🌱 I’m currently learning Accellerometers and Laser sensors
+- 👀 I’m interested in Electronic Test and Measurement Instruments
+- 🌱 I’m currently learning Accelerometers and Laser sensors
 - 💞️ I’m looking to collaborate on whatever is interesting and useful to develop
 - 📫 How to reach me: support [at] martinloren.com or Telegram group @HScope
 
